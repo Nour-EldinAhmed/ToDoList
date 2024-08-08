@@ -39,8 +39,15 @@ To start managing your tasks with TODOList, download the app from the link below
 
 We welcome contributions to enhance TODOList. If you have suggestions, feature requests, or bug reports, please open an issue or submit a pull request on our GitHub repository.
 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+
+## Contact
+
+For any questions or support, feel free to contact the project maintainer:
+
+- **Name:** Nour Eldin Ahmed
+- **GitHub:** [Nour-EldinAhmed](https://github.com/Nour-EldinAhmed)
